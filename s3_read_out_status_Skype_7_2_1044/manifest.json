@@ -1,0 +1,10 @@
+{
+    "version": 15.0,
+    "description": "Script for Skype",
+    "process": "lync.exe",
+    "scripts" : [
+            "underscore.js",
+            "q.js",
+            "app.js"]
+
+}
