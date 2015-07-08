@@ -1,0 +1,30 @@
+﻿16:24:39. 56 onSetFocus
+16:24:39. 87 onActivate
+16:24:40.236 onKillFocus
+16:24:40.241 onSetFocus
+16:24:40.906 onKillFocus
+16:24:40.909 onSetFocus
+16:24:41.424 You opened a window.
+16:24:42.806 You opened a window.
+16:24:44.347 onKillFocus
+16:24:44.354 onSetFocus
+16:24:44.392 onKillFocus
+16:24:44.396 onSetFocus
+16:24:45.181 onKillFocus
+16:24:49.545 You opened a window.
+16:24:49.554 You opened a window.
+16:24:59. 51 You opened a window.
+16:24:59. 60 You opened a window.
+16:25:11.622 You opened a window.
+16:25:11.634 You opened a window.
+16:25:19.883 You opened a window.
+16:25:19.895 You opened a window.
+16:25:20. 49 You opened a window.
+16:25:20. 60 You opened a window.
+16:25:23. 14 onActivate
+16:25:23. 17 onSetFocus
+16:25:24.113 onKillFocus
+16:25:28.895 You opened a window.
+16:25:28.900 You opened a window.
+16:25:28.912 You opened a window.
+16:25:28.916 You opened a window.
